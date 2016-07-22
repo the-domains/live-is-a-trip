@@ -1,0 +1,14 @@
+layout_spectrum: 0.9597207
+typography_spectrum: 0.4745347
+color:
+  saturation: 0.4001365
+  lightness: 0.5360919
+  brandStrength: 0.5776966
+  brandColors:
+    - '#391A43'
+    - '#D6BF96'
+    - '#5C4152'
+    - '#DE8B69'
+    - '#D55A3C'
+  rhythmicContrast: 0.1973483
+name: Live is a trip
