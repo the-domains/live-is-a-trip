@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Live is a trip]]></title>
-        <description><![CDATA[Live is a trip]]></description>
+        <title><![CDATA[Escrevendo o livro de nossa historia]]></title>
+        <description><![CDATA[Escrevendo o livro de nossa historia]]></description>
         <link>https://thegrid.ai/live-is-a-trip/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jul 2016 21:09:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 07:02:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/live-is-a-trip/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Working among the wines]]></title>
@@ -19,6 +19,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9d89c77-9450-4ac8-ac16-6d604a7e6b04.jpg</link>
             <guid isPermaLink="false">b5d4b4ac-841b-435b-8537-b9ba2794d7b4</guid>
             <pubDate>Fri, 22 Jul 2016 07:11:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Visting Abbeye Fontfroide]]></title>
+            <description><![CDATA[<article><h1>Visting Abbeye Fontfroide</h1><p>After hard day's work packed with Iveco presentations </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/52d11a6ca26f7378135dbb2c4e33ca4a/croprotate.jpg?cropheight=4032&cropwidth=3024&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F96a8d543-7dcb-4cb8-a382-1f10578a8f4a.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/96a8d543-7dcb-4cb8-a382-1f10578a8f4a.jpg</link>
+            <guid isPermaLink="false">d76655d4-222b-4c7f-ac9a-0d92499902f1</guid>
+            <pubDate>Thu, 28 Jul 2016 07:02:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
