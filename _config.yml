@@ -5,23 +5,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.4745347
 color:
   saturation: 0.7706767
   brandStrength: 0.5776966
-  lightness: 0.9167562
+  rhythmicContrast: 0.7116004
   brandColors:
     - '#391A43'
     - '#D6BF96'
     - '#5C4152'
     - '#DE8B69'
     - '#D55A3C'
-  rhythmicContrast: 0.7116004
-typography_spectrum: 0.4745347
-layout_spectrum: 0.982277
+  lightness: 0.9167562
+layout_spectrum: 1
 name: Live is a trip
