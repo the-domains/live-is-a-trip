@@ -1,27 +1,27 @@
-layout_spectrum: 1
-name: Live is a trip
 title: Escrevendo o livro de nossa historia
 collections:
   - index:
-      paginate: true
       path: /
       number: 15
+      paginate: true
       navigable: true
-    feed:
-      format: rss
-      path: /rss.xml
-      number: 10
     permalink:
       path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.4745347
 color:
+  saturation: 0.8995703
   brandStrength: 0.5776966
-  lightness: 0.9131535
-  saturation: 0.3364249
-  rhythmicContrast: 0.3903879
+  lightness: 1
   brandColors:
     - '#391A43'
     - '#D6BF96'
     - '#5C4152'
     - '#DE8B69'
     - '#D55A3C'
-typography_spectrum: 0.4745347
+  rhythmicContrast: 0.179914
+layout_spectrum: 1
+name: Live is a trip
