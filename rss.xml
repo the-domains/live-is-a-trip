@@ -4,7 +4,7 @@
         <description><![CDATA[Escrevendo o livro de nossa historia]]></description>
         <link>https://thegrid.ai/live-is-a-trip/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Aug 2016 09:56:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2016 14:24:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/live-is-a-trip/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Visiting Portugal]]></title>
@@ -21,6 +21,13 @@
             <pubDate>Sun, 31 Jul 2016 08:48:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Narbonne in high style]]></title>
+            <description><![CDATA[<article><h1>Narbonne in high style</h1><p>After hard day's work packed with Iveco presentations </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/52d11a6ca26f7378135dbb2c4e33ca4a/croprotate.jpg?cropheight=4032&cropwidth=3024&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F96a8d543-7dcb-4cb8-a382-1f10578a8f4a.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/96a8d543-7dcb-4cb8-a382-1f10578a8f4a.jpg</link>
+            <guid isPermaLink="false">d76655d4-222b-4c7f-ac9a-0d92499902f1</guid>
+            <pubDate>Mon, 01 Aug 2016 14:24:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Lowry in China]]></title>
             <description><![CDATA[<article><h1>Lowry in China</h1><p>In our few years living in Manchester, one of our favourite cultural spots was the Lowry Museum, in Salford. Its industrial revolution era paintings always gave us a strange feeling when contrasted with the modern buildings that occupy the city.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/68216d0e63d9ad28e70f93b8a64e17d286e74e62.jpg"></article>]]></description>
             <link>http://www.bbc.co.uk/news/magazine-30248214</link>
@@ -33,13 +40,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/075f2918-0f53-4a57-8eba-ebc83b651ef8.jpg</link>
             <guid isPermaLink="false">0abb0b51-1e97-47dc-99cf-e1ca2d6d66f8</guid>
             <pubDate>Sun, 31 Jul 2016 08:57:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Visting Abbeye Fontfroide]]></title>
-            <description><![CDATA[<article><h1>Visting Abbeye Fontfroide</h1><p>After hard day's work packed with Iveco presentations </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/52d11a6ca26f7378135dbb2c4e33ca4a/croprotate.jpg?cropheight=4032&cropwidth=3024&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F96a8d543-7dcb-4cb8-a382-1f10578a8f4a.jpg&x=0&y=0"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/96a8d543-7dcb-4cb8-a382-1f10578a8f4a.jpg</link>
-            <guid isPermaLink="false">d76655d4-222b-4c7f-ac9a-0d92499902f1</guid>
-            <pubDate>Sun, 31 Jul 2016 08:48:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
